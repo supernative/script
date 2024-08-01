@@ -1,0 +1,9 @@
+walk and collect all files and store them in a list.
+go over the list and count the number of characters.
+create a new file with the file names and their counts.
+call the file "volume.json".
+
+compute volume of the disk at time (t).
+wait for some (T) duration before checking again.
+compare the change and store in the same file.
+use new key to denote the added changes.
